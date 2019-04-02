@@ -1,7 +1,7 @@
 Redshift Queries
 ~~~~~~~~~~~~~~~~
 
-psql -h easyoradba.c2nh0wlf4z7g.ap-southeast-2.redshift.amazonaws.com -p 5439 -U awsuser Rabbithole1234$#
+psql -h easyoradba.c2nh0wlf4z7g.ap-southeast-2.redshift.amazonaws.com -p 5439 -U awsuser dev
 postgres-> \l
 postgres-> \c myproddb
 
